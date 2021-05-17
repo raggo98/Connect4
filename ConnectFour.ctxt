@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ ConnectFour()
+comment1.params=
+comment1.target=void\ SinglePlayer()
+comment2.params=
+comment2.target=void\ Multiplayer()
+comment3.params=
+comment3.target=void\ printBoard()
+comment4.params=column\ playerNum
+comment4.target=boolean\ playMove(int,\ int)
+comment5.params=column
+comment5.target=boolean\ isPlayable(int)
+comment6.params=
+comment6.target=boolean\ isFull()
+comment7.params=x\ y
+comment7.target=boolean\ isConnected(int,\ int)
+comment8.params=
+comment8.target=void\ SaveGame()
+comment9.params=
+comment9.target=void\ exit()
+numComments=10
